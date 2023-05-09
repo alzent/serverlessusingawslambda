@@ -12,7 +12,9 @@ import java.util.Map;
 import com.amazonaws.services.lambda.runtime.Context;
 
 public class DataTypes {
-	
+
+	// neu comment line added
+
 	private Double instanceVariable = Math.random();
 	private static Double staticVariable = Math.random();
 	
